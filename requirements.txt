@@ -1,0 +1,9 @@
+discord.py==2.3.2
+yt-dlp
+PyNaCl
+<<<<<<< HEAD
+python-dotenv
+youtubesearchpython
+=======
+python-dotenv
+>>>>>>> 2e48e9d10eb81b02fc1d3c63bea7f10acd5b2968

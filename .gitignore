@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+<<<<<<< HEAD
+database.json
+cookies.txt
+=======
+database.json
+>>>>>>> 2e48e9d10eb81b02fc1d3c63bea7f10acd5b2968
